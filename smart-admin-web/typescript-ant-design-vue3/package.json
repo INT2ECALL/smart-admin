@@ -23,7 +23,7 @@
     "@wangeditor/editor": "^5.0.1",
     "@wangeditor/editor-for-vue": "^5.1.11",
     "ant-design-vue": "3.2.5",
-    "axios": "~0.27.2",
+    "axios": "~1.6.3",
     "clipboard": "~2.0.11",
     "crypto-js": "~4.1.1",
     "decimal.js": "^10.3.1",
